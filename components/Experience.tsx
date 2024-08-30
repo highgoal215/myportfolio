@@ -47,8 +47,8 @@ const Experience: React.FC<{}> = () => {
           combat RPGs for core gamers on the blockchain
           <br />
           <br /> - Successfully created a React ‐ based frontend application
-          using web3.js, compliant with the bank's corporate standards as well
-          automated deployment pipeline
+          using web3.js, compliant with the bank&apos;s corporate standards as
+          well automated deployment pipeline
           <br /> - Successfully integrated frontend application with a Node
           backend
           <br /> - Developed software that helped customers to simulate loans
