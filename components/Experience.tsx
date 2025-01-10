@@ -12,21 +12,20 @@ const Experience: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-orange-800">
-            <span className="font-semibold"> Ahau-x /</span> Project Manager
+            <span className="font-semibold"> Freelancing /</span>Blockchain Engineer
           </p>
-          <p className="text-gray-300">August 2022 – June 2024</p>
+          <p className="text-gray-300">April 2023 – Current</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Ahau-x is a tech company focused on blockchain and AI, helping clients
-          build custom solutions to real-world problems.
+          -Collaborated with front-end developers to integrate blockchain functionalities into web applications using React and Web3.js.
+
           <br />
           <br />
-          - Specialized in utilizing a diverse tech stacks that included
-          Next.js, Tailwind CSS, Solidity, Hardhat, GraphQL, PostgreSQL,
-          Web3.js.
+          Conducted code reviews and provided mentorship to junior developers, fostering a collaborative and knowledge-sharing environment.
+
           <br />
-          - Closely collaborated with the Ahau-x dev team to improve the
-          efficiency of the platform by 25%.
+          Optimized performance and scalability of DApps through effective use of Layer 2 scaling solutions and state channels.
+
           <br />
           - Supported the DevOps team to automate CI/CD processes.
           <br />
@@ -37,42 +36,70 @@ const Experience: React.FC<{}> = () => {
         </p>
         <div className="flex  flex-row justify-between pt-10">
           <p className="text-orange-800 ">
-            <span className="font-semibold"> Azra Games Inc /</span> Blockchain
-            Developer
+            <span className="font-semibold"> Crypto Innovations Inc /</span> Blockchain Developer
           </p>
-          <p className="text-gray-300">April 2021 – June 2022</p>
+          <p className="text-gray-300">November 2022 – April 2023</p>
         </div>
         <p className="text-gray-300 pt-5">
-          The company specializes in blockchain technology and makes collectible
-          combat RPGs for core gamers on the blockchain
+          -Led the design and implementation of a multi-chain DeFi platform that increased transaction throughput by 50%. 
           <br />
-          <br /> - Successfully created a React ‐ based frontend application
-          using web3.js, compliant with the bank&apos;s corporate standards as
-          well automated deployment pipeline
-          <br /> - Successfully integrated frontend application with a Node
-          backend
-          <br /> - Developed software that helped customers to simulate loans
-          which increased the loans by 10%
+          <br /> - Developed smart contracts for various DeFi applications, managing over $200M in total value locked.
+
+          <br /> - Collaborated with cross-functional teams to integrate blockchain solutions into existing systems.
+
+          <br /> -Mentored junior developers on blockchain best practices and smart contract development.
         </p>
         <div className="flex  flex-row justify-between pt-10">
           <p className="text-orange-800 ">
-            <span className="font-semibold"> Synthetix /</span> Frontend
-            Developer
+            <span className="font-semibold"> Blockchain Solutions LLC /</span> DeFi Developer
           </p>
-          <p className="text-gray-300">October 2019 – February 2021</p>
+          <p className="text-gray-300">June 2020 – Novmber 2022</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Synthetix is a decentralized finance ( DeFi) platform that provides
-          liquidity for a range of permissionless derivatives
+        -Designed and implemented decentralized applications (dApps) for marketplace functionalities using Ethereum.
+
           <br />
-          <br /> - Collaborated with web designers and back-end developers to
-          ensure web applications met customer requirements
-          <br /> - Developed front-end user interfaces for several complex web
-          applications with HTML, CSS, and JavaScript
-          <br /> - Successfully integrated frontend application with a Node
-          backend
-          <br /> - Investigated and resolved technical issues related to
-          front-end development
+          <br /> - Utilized Solidity to develop and deploy smart contracts ensuring security and efficiency.
+
+          <br /> - Conducted code reviews and security audits to enhance the reliability of blockchain applications.
+
+          <br /> - Successfully integrated frontend application with a Node backend
+          <br /> - Investigated and resolved technical issues related to front-end development
+        </p>
+        <div className="flex  flex-row justify-between pt-10">
+          <p className="text-orange-800 ">
+            <span className="font-semibold"> Digital Assets Corp  /</span> Smart Contract Developer
+          </p>
+          <p className="text-gray-300">March 2020 – July 2020</p>
+        </div>
+        <p className="text-gray-300 pt-5">
+        -Developed and optimized smart contracts for various tokenization projects on Ethereum.
+
+          <br />
+          <br /> - Implemented automated testing frameworks to ensure the integrity of smart contracts.
+
+
+          <br /> - Collaborated with front-end developers to create a seamless user interface using React.js and Web3.js.
+          <br /> - Developed smart contracts for minting and trading NFTs compliant with ERC721
+          and ERC1155 standards.
+          <br /> - Collaborated with product managers to define requirements and deliver innovativeblockchain solutions.
+
+        </p>
+        <div className="flex  flex-row justify-between pt-10">
+          <p className="text-orange-800 ">
+            <span className="font-semibold"> Tech Solutions Inc/</span> Full-Stack Developer 
+          </p>
+          <p className="text-gray-300">July 2016 – April 2019</p>
+        </div>
+        <p className="text-gray-300 pt-5">
+        -Led the front-end development of a smart price recommendations platform used by large retail and eCommerce clients.
+          <br />
+          <br /> -Built responsive web applications using JavaScript frameworks React.js, Node.js integrated with blockchain backends.
+
+          <br /> -Developed RESTful APIs to connect frontend applications with blockchain data.
+
+          <br /> - Developed server-side logic using Node.js and Express to support web applications.
+          <br /> - Investigated and resolved technical issues related to front-end development
         </p>
 
         <div className="flex-wrap flex sm:flex-row gap-1 pt-10">

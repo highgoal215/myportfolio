@@ -13,12 +13,11 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          With a strong background in full-stack development, my expertise lies
-          particularly in blockchain technology. I specialize in creating secure
-          decentralized applications, designing and implementing blockchain
-          solutions, and programming smart contracts. My toolkit includes
-          proficiency in Hardhat, Remix, and web3.js, which are essential for
-          modern blockchain development.
+        A seasoned Blockchain and AI Engineer with 8 years of extensive experience in developing innovative solutions that leverage blockchain technology and artificial intelligence. 
+        Proficient in designing decentralized applications, implementing smart contracts, and creating machine learning models to drive data-driven decision-making.
+        Demonstrated expertise in various industries, including finance and supply chain management, with a strong focus on enhancing operational efficiency and security. 
+        Skilled in multiple programming languages and frameworks such as Solidity, Python, and React. 
+        Passionate about leveraging emerging technologies to solve complex problems and committed to continuous learning and improvement
           <br />
           <br />
           Committed to the advancement of blockchain technology, I am always

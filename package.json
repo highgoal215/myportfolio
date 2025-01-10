@@ -10,8 +10,9 @@
   },
   "dependencies": {
     "@types/country-list": "^2.1.4",
-    "next": "14.0.4",
-    "react-dom": "^18",
+    "next": "^14.2.23",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "sharp": "^0.33.0"
   },
   "devDependencies": {
