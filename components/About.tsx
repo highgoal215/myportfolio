@@ -12,7 +12,7 @@ const About: React.FC<{}> = () => {
         <p className=" tracking-[0.5em] text-transparent font-light pb-5  bg-clip-text bg-gradient-to-r from-purple-700 to-orange-500  text-1xl">
           EXPLORE NOW
         </p>
-        <p className="text-gray-300 text-center ">
+        <p className="text-blue-300 text-center text-2xl">
         A seasoned Blockchain and AI Engineer with 8 years of extensive experience in developing innovative solutions that leverage blockchain technology and artificial intelligence. 
         Proficient in designing decentralized applications, implementing smart contracts, and creating machine learning models to drive data-driven decision-making.
         Demonstrated expertise in various industries, including finance and supply chain management, with a strong focus on enhancing operational efficiency and security. 

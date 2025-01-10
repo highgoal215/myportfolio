@@ -27,7 +27,7 @@ const Footer: React.FC<{}> = () => {
           );
         })}
       </div>
-      <p className="text-gray-300 text-center text-sm">
+      <p className="text-gray-300 text-center text-lg">
         Created with ❤️ using Next.js
       </p>
     </div>

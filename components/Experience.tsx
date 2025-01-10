@@ -11,12 +11,12 @@ const Experience: React.FC<{}> = () => {
       </p>
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
-          <p className="text-orange-800">
+          <p className="text-orange-800 text-xl">
             <span className="font-semibold"> Freelancing /</span>Blockchain Engineer
           </p>
-          <p className="text-gray-300">April 2023 – Current</p>
+          <p className="text-blue-300 text-xl ">April 2023 – Current</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-blue-300 pt-5 text-xl">
           -Collaborated with front-end developers to integrate blockchain functionalities into web applications using React and Web3.js.
 
           <br />
@@ -35,12 +35,12 @@ const Experience: React.FC<{}> = () => {
           takeholders, and mentored and tutored 3 junior developers.
         </p>
         <div className="flex  flex-row justify-between pt-10">
-          <p className="text-orange-800 ">
+          <p className="text-orange-800 text-xl ">
             <span className="font-semibold"> Crypto Innovations Inc /</span> Blockchain Developer
           </p>
-          <p className="text-gray-300">November 2022 – April 2023</p>
+          <p className="text-blue-300 text-xl">November 2022 – April 2023</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-blue-300 pt-5 text-xl">
           -Led the design and implementation of a multi-chain DeFi platform that increased transaction throughput by 50%. 
           <br />
           <br /> - Developed smart contracts for various DeFi applications, managing over $200M in total value locked.
@@ -50,12 +50,12 @@ const Experience: React.FC<{}> = () => {
           <br /> -Mentored junior developers on blockchain best practices and smart contract development.
         </p>
         <div className="flex  flex-row justify-between pt-10">
-          <p className="text-orange-800 ">
+          <p className="text-orange-800 text-xl ">
             <span className="font-semibold"> Blockchain Solutions LLC /</span> DeFi Developer
           </p>
-          <p className="text-gray-300">June 2020 – Novmber 2022</p>
+          <p className="text-blue-300 text-xl">June 2020 – Novmber 2022</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-blue-300 pt-5 text-xl">
         -Designed and implemented decentralized applications (dApps) for marketplace functionalities using Ethereum.
 
           <br />
@@ -67,12 +67,12 @@ const Experience: React.FC<{}> = () => {
           <br /> - Investigated and resolved technical issues related to front-end development
         </p>
         <div className="flex  flex-row justify-between pt-10">
-          <p className="text-orange-800 ">
+          <p className="text-orange-800 text-xl ">
             <span className="font-semibold"> Digital Assets Corp  /</span> Smart Contract Developer
           </p>
-          <p className="text-gray-300">March 2020 – July 2020</p>
+          <p className="text-blue-300 text-xl">March 2020 – July 2020</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-blue-300 pt-5 text-xl">
         -Developed and optimized smart contracts for various tokenization projects on Ethereum.
 
           <br />
@@ -86,12 +86,12 @@ const Experience: React.FC<{}> = () => {
 
         </p>
         <div className="flex  flex-row justify-between pt-10">
-          <p className="text-orange-800 ">
+          <p className="text-orange-800 text-xl">
             <span className="font-semibold"> Tech Solutions Inc/</span> Full-Stack Developer 
           </p>
-          <p className="text-gray-300">July 2016 – April 2019</p>
+          <p className="text-blue-300 text-xl">July 2016 – April 2019</p>
         </div>
-        <p className="text-gray-300 pt-5">
+        <p className="text-blue-300 pt-5 text-xl">
         -Led the front-end development of a smart price recommendations platform used by large retail and eCommerce clients.
           <br />
           <br /> -Built responsive web applications using JavaScript frameworks React.js, Node.js integrated with blockchain backends.

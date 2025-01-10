@@ -11,15 +11,15 @@ const Banner: React.FC<{}> = () => {
           <Image
             priority
             src="/upwork.jpg"
-            height={150}
-            width={150}
+            height={200}
+            width={200}
             className="rounded-full"
             alt="John Ruff"
           />
         </div>
 
         <div className="flex flex-col gap-6 mt-6 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          John Ruff!
+          John Ruff
         </div>
         <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
           I do Code &{" "}
@@ -28,7 +28,7 @@ const Banner: React.FC<{}> = () => {
           </span>{" "}
           🍿
         </p>
-        <p className="text-md text-gray-200 my-5 max-w-[600px]">
+        <p className="text-md text-blue-200 my-5 max-w-[600px] text-xl">
           Code is like humor and my life . When you have to explain it, it&apos;s bad.
         </p>
         <div className="text-md flex justify-center">
