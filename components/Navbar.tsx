@@ -13,7 +13,7 @@ const Navbar: React.FC<{}> = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h3 className="text-white">John Ruff</h3>
+          <h3 className="text-white">Steve Ruff</h3>
         </a>
 
         <div className="flex flex-row gap-5">
